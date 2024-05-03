@@ -39,6 +39,7 @@ export default function Home() {
       'what time is it': `I'm sorry, I can't provide real-time information.`,
       'where is the store':'it is on colombo 7',
       'what is the price':'price is 20 rs.',
+      'where is the pizza':'lasith',
     };
 
     // Check if the user's message matches any of the questions
