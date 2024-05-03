@@ -1,0 +1,30 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+    position: relative;
+    bottom: 50px;
+}
+
+.login-form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #ccc;
+    width: 400px; /* Adjust width as needed */
+    height: 350px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+}
+
+.subButton {
+    position: relative;
+    top: 10px;
+}
+
+.signup-link{
+    position: relative;
+    top: 20px;
+}
